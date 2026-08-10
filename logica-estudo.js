@@ -16,3 +16,14 @@ console.log("---------\n");
 //variáveis do tipo string (Texto)
 let nome = "Sarah";
 console.log(nome);
+
+/*
+variaveis:
+number inteiro: 12
+number casa decimais: 23.5
+string: "nome"
+single char 'm'
+boolean: true / false
+ */
+
+console.log("---------\n");
