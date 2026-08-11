@@ -19,11 +19,12 @@ console.log(nome);
 
 /*
 variaveis:
-number inteiro: 12
-number casa decimais: 23.5
+number inteiro: 12 (int)
+number casa decimais: 23.5 (double)
 string: "nome"
-single char 'm'
+single char 'm' (char)
 boolean: true / false
+null / undefined: let idade();
  */
 
 console.log("---------\n");
